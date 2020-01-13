@@ -1,0 +1,14 @@
+{
+  "name": "pkg",
+  "version": "1.0.0",
+  "description": "我的node包",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hl",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2"
+  }
+}
